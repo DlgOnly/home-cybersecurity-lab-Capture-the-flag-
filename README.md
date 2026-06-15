@@ -32,6 +32,17 @@ Build a home cybersecurity environment to practice:
 - GitHub
 
 ---
+| Week | Attacker Goal                      | Defender Goal                   | Flag                       |
+| ---- | ---------------------------------- | ------------------------------- | -------------------------- |
+| 1    | Discover the network               | Build and inventory the network | Find a hidden text file    |
+| 2    | Enumerate services                 | Secure services                 | Retrieve a banner          |
+| 3    | Web application assessment         | Harden the web server           | Find a secret page         |
+| 4    | Password auditing on test accounts | Strengthen authentication       | Crack a weak test password |
+| 5    | Persistence detection exercise     | Detect unauthorized changes     | Find a planted file        |
+| 6    | Log analysis challenge             | Identify attack timeline        | Determine attack time      |
+| 7    | Blue vs. Red Team                  | Defend while attacks occur      | Keep services available    |
+| 8    | Full CTF                           | Attack and defend               | Capture all flags          |
+
 
 ## Network Diagram
 
